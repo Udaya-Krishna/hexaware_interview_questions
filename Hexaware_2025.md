@@ -10,6 +10,7 @@ Input: 5
 
 Output: 1
 
+
 Test case 2:
 
 Input: 6
@@ -28,6 +29,7 @@ Input: 6
 \[3,-1,7,-4,9,2\]
 
 Output: 7
+
 
 Test case 2:
 
@@ -56,8 +58,10 @@ Input: 5, 10, 3
 
 Output: 6
 
+
 Testcase 2:
 
 Input: 6, 3, 2
 
 Output: 1
+
