@@ -2,14 +2,6 @@ Hexaware 2025 on-campus hiring
 
 1.  Smallest element of an array.
 
-Test case 2:
-
-Input: 6
-
-\[4,1,2,9,0,7\]
-
-Output: 0
-
 Test case 1:
 
 Input: 5
@@ -18,7 +10,24 @@ Input: 5
 
 Output: 1
 
+Test case 2:
+
+Input: 6
+
+\[4,1,2,9,0,7\]
+
+Output: 0
+
+
 2.  Middle element of an array after removing negative values
+
+Test case 1:
+
+Input: 6
+
+\[3,-1,7,-4,9,2\]
+
+Output: 7
 
 Test case 2:
 
@@ -28,13 +37,6 @@ Input: 5
 
 Output: 20
 
-Test case 1:
-
-Input: 6
-
-\[3,-1,7,-4,9,2\]
-
-Output: 7
 
 3.  Wheatstone bridge
 
@@ -48,14 +50,14 @@ missing one, R4.
 <img src="images/media/image1.png"
 style="width:2.41094in;height:3.4102in" />
 
-Testcase 2:
-
-Input: 6, 3, 2
-
-Output: 1
-
 Testcase 1:
 
 Input: 5, 10, 3
 
 Output: 6
+
+Testcase 2:
+
+Input: 6, 3, 2
+
+Output: 1
